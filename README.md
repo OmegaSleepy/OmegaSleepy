@@ -21,20 +21,22 @@ I am a programming hobbyist from **Stara Zagora, Bulgaria**, I focus on building
 ---
 
 ### 📂 Currently Working On...
-- **[Умения+]:** A Java Spark project focusing on a fun way to learn and teach [very early in development].
+- **[Умения+]:** A Java Spark project focusing on a fun way to learn and teach [very early in development].  
 - **A fabric minecraft mod:** Learning how to effectively use APIs that I am not familiar with and writing util to simplify implementation
 - Check my pins for more of my work!
 ---
 
 ### 🐧 Fun Fact
-I have two systems, one on win10. I have begun to dislike it as of late and planning to switch to Linux.
-My school daily driver is **Linux Mint Cinnamon** personal laptop. I value the speed and simplicity it gives plus, it saved my laptop from the trash and now it runs IntelliJ Idea like a charm! And PyCharm too 😂!
+I have two systems, one on win10. I have begun to dislike the operation system as of late and plan on switching to Linux.   
+My school daily driver is **Linux Mint Cinnamon** personal laptop. I enjoy the speed and simplicity it gives plus, it saved my laptop from the trash and now it runs IntelliJ Idea like a charm! And PyCharm too 😂!
 
 ---
 
 ### 🤝 Let's Connect!
-Liked my work? If you are a recruiter, a fellow developer, or a tech lead in Bulgaria looking for a very hungry and talented intern, I’d love to chat!  
+Like my work?  
+If you are a recruiter, a fellow developer, or a tech lead in Bulgaria looking for a *very* hungry and talented intern, I’d love to chat!  
 
 - 📍 "Based" in: **Stara Zagora, Bulgaria**
 - 📫 Reach me via GitHub Issues or email me @ [m.v.georgiev2307@gmail.com]
 - 🎓 *Note: Currently a high school student available for seasonal/part-time roles.*
+- 🏢 The *workplace* listed is the school I study at.
