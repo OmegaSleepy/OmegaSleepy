@@ -1,7 +1,5 @@
 # Zdraveite! I'm Martin! 🇧🇬 
 
-### High School Student | Java & Kotlin Enthusiast | Backend Architect
-
 I am a programming hobbyist from **Stara Zagora, Bulgaria**, I focus on building architecturally sound, scalable backend systems. I enjoy designing complex systems that are easy to maintain and perform well.
 
 ---
@@ -29,7 +27,7 @@ I am a programming hobbyist from **Stara Zagora, Bulgaria**, I focus on building
 
 ### OS
 I have two systems, one on **win10** and another one on **Linux Mint Cinnamon**. I have begun to dislike win10 as of late and plan on switching to Linux exclusively.   
-My school daily driver is the linux system - personal laptop. I enjoy the speed and simplicity it gives plus, it saved my laptop from the trash and now it runs IntelliJ Idea like a charm! And PyCharm too 😂!
+My school daily driver is the linux system - personal laptop. I enjoy the speed and simplicity it gives plus, it saved my laptop from the trash and now it runs IntelliJ Idea like a charm! And PyCharm too 😂
 
 ---
 
@@ -42,8 +40,8 @@ My school daily driver is the linux system - personal laptop. I enjoy the speed 
 Like my work?  
 If you are a recruiter, a dev, or a tech lead in Bulgaria looking for a *very* hungry and talented intern, I’d love to chat!  
 
-- 📍 "Based" in: **Stara Zagora, Bulgaria**
-- 📫 Reach me via GitHub Issues or email me @ [m.v.georgiev2307@gmail.com](mailto:m.v.georgiev2307@gmail.com)
-- 🎓 *Note: Currently a high school student available for seasonal/part-time roles.*
-- 🏢 The *workplace* listed is the school I study at.
+- "Based" in: **Stara Zagora, Bulgaria**
+- Reach me via GitHub Issues or email me @ [m.v.georgiev2307@gmail.com](mailto:m.v.georgiev2307@gmail.com)
+- *Note: Currently a high school student available for seasonal/part-time roles.*
+- The *workplace* listed is the school I study at.
 - *Sorry for all gramatic**al** errors you had to endure*
