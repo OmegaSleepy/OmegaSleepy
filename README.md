@@ -6,7 +6,6 @@ I am a programming hobbyist from **Stara Zagora, Bulgaria**, I focus on building
 ### My Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=fff)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
@@ -15,7 +14,7 @@ I am a programming hobbyist from **Stara Zagora, Bulgaria**, I focus on building
 - **Backend:** I enjoy Java & Kotlin (JVM ecosystem).
 - **DBs:** Proficient in SQL (MySQL, SQLite), focusing on useful integration with jdbc.
 - **Networking:** Currently exploring HTTPS implementations and RESTful APIs using [**Java Spark**](https://www.sparkjava.com/).
-- **Other:** Currently participating in the National Programming Olympiads, [link in Bulgarian](https://edusoft.fmi.uni-sofia.bg/za_olimpidata).
+- **Other:** Currently participating in the National Programming Olympiad, [link in Bulgarian](https://edusoft.fmi.uni-sofia.bg/za_olimpidata).
 
 ---
 
@@ -38,7 +37,7 @@ My school daily driver is the linux system - personal laptop. I enjoy the speed 
 
 ### Let's Connect!
 Like my work?  
-If you are a recruiter, a dev, or a tech lead in Bulgaria looking for a *very* hungry and talented intern, I’d love to chat!  
+If you are a recruiter, or a tech lead in Bulgaria looking for a ***very*** hungry and talented intern, I’d love to chat!  
 
 - "Based" in: **Stara Zagora, Bulgaria**
 - Reach me via GitHub Issues or email me @ [m.v.georgiev2307@gmail.com](mailto:m.v.georgiev2307@gmail.com)
