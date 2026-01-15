@@ -19,7 +19,7 @@ I am a programming hobbyist from **Stara Zagora, Bulgaria**, I focus on building
 ---
 
 ### Currently Working On...
-- **[Умения+]:** A Java Spark project focusing on a fun way to learn and teach [very early in development].  
+- **[Умения+]:** A Java Spark project focusing on a fun way to learn and teach [check it out here](https://github.com/OmegaSleepy/Umeniya-Plus).  
 - **A fabric minecraft mod:** Learning how to effectively use APIs that I am not familiar with and writing util to simplify implementation.   
 - Check my pins for more of my work!
 ---
