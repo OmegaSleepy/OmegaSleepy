@@ -19,6 +19,7 @@ Focused on backend development and data scraping.
 - TCP
 
 ### Currently Learning
+- Math (mostly calculus and linear algebra)
 - Python  
   *Goal: build a small model before July.*
 
