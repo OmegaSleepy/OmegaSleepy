@@ -20,8 +20,7 @@ Focused on backend development and data scraping.
 
 ### Currently Learning
 - Math (mostly calculus and linear algebra)
-- Python  
-  *Goal: build a small model before July.*
+- Rust
 
 ---
 
@@ -29,13 +28,13 @@ Focused on backend development and data scraping.
 
 - **Python** — strengthening fundamentals and aiming for fluency  
 - **Data Scraping** — efficient and respectful (robots.txt & rate limits matter)
+- **Ownership** - I really like Rust's syntax from the little I've seen
 
 ---
 
 ## Environment
 
-- Linux user  
-- Do not expect Windows support  
+- Linux user (I use arch btw, actually Linux Mint)
 
 ---
 
