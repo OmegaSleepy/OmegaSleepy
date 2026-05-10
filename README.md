@@ -19,7 +19,6 @@
 
 ## 🚀 Currently Working On
 
-- **Python** — strengthening fundamentals and aiming for fluency
 - **Data Scraping** — efficient and respectful (robots.txt & rate limits matter)
 - **Rust** — I really like its ownership model and clean syntax
 
