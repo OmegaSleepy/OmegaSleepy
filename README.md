@@ -10,8 +10,8 @@
 
 | Category | Skills |
 |----------|--------|
-| **Languages** | Java (primary), Python |
-| **Databases** | MySQL, SQLite |
+| **Languages** | Java (primary), Python, Rust |
+| **Databases** | MySQL, SQLite, PostgreSQL |
 | **Networking** | HTTP, TCP |
 | **Learning** | Rust, Math (calculus & linear algebra) |
 
@@ -21,6 +21,7 @@
 
 - **Data Scraping** — efficient and respectful (robots.txt & rate limits matter)
 - **Rust** — I really like its ownership model and clean syntax
+- **KZP analysis**
 
 ---
 
